@@ -1,2 +1,0 @@
-# BandaNews
-BandaNews
